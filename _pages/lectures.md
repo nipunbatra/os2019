@@ -11,16 +11,16 @@ description: "Education is what remains after one has forgotten what one has lea
 |   |  |  |  |  |
 |  1 | 6 Aug | [Logistics & Introduction to OS](../lectures/os-19-1.pdf "Logistics & Introduction to OS") |  |  |
 |   | 7 Aug |  |  |  |
-|  1 Jan | 8 Aug | [Processes](../lectures/os19-2-processes.pdf "Processes") |  |  |
+|  2 | 8 Aug | [Processes](../lectures/os19-2-processes.pdf "Processes") |  |  |
 |  3 | 9 Aug | [Process API](../lectures/os19-3-process-api.pdf "Process API") |  |  |
 |   |  |  |  |  |
 |   | 12 Aug |  | [Process commands (top, ps)](https://nipunbatra.github.io/teaching/os-fall-18/labs/lab-1.pdf "Process commands (top, ps)") |  |
 |  4 | 13 Aug | [CPU Scheduling 1](../lectures/os19-4-cpu-scheduling.pdf "CPU Scheduling 1") |  | Project topics discussion |
-|  4 Jan | 14 Aug | CPU Scheduling (continued - slides above) |  |  |
+|  5 | 14 Aug | CPU Scheduling (continued - slides above) |  |  |
 |   | 15 Aug | *Holiday* |  |  |
 |  6 | 16 Aug | [CPU scheduling 2](../lectures/os19-6-cpu-scheduling.pdfpdf "CPU scheduling 2") |  |  |
 |   |  |  |  |  |
-|  6 Jan | 17 Aug | [MLFQ + LDE](../lectures/os19-7-cpu-scheduling-execution.pdf "MLFQ + LDE") |  |  |
+|  7 | 17 Aug | [MLFQ + LDE](../lectures/os19-7-cpu-scheduling-execution.pdf "MLFQ + LDE") |  |  |
 |  8 | 17 Aug | [Context Switching](../lectures/os19-8-cpu-execution-memory.pdf "Context Switching") |  |  |
 |   |  |  |  |  |
 |   | 19 Aug |  | Process API questions from book |  |
@@ -36,8 +36,8 @@ description: "Education is what remains after one has forgotten what one has lea
 |   |  |  |  |  |
 |   | 2 Sep |  |  |  |
 |   | 3 Sep | [Paging + Advanced Paging](../lectures/os19-memory-management-paging-advanced.pdf "Paging + Advanced Paging") |  |  |
-|  14 Jan | 4 Sep |  | Chapter 14 questions |  |
-|  15 Jan | 4 Sep | [Free memory management](../lectures/free-space.pdf "Free memory management") |  |  |
+|  15 | 4 Sep |  | Chapter 14 questions |  |
+|  16 | 4 Sep | [Free memory management](../lectures/free-space.pdf "Free memory management") |  |  |
 |  17 | 6 Sep | [Advanced Paging, Swapping](../lectures/os19-memory-management-swapping.pdf "Advanced Paging, Swapping") |  | Project phase 1 updates |
 |   |  |  |  |  |
 |  18 | 10 Sep | [Swapping](../lectures/os19-swapping.pdf "Swapping") |  |  |
