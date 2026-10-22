@@ -6,7 +6,7 @@ Course website for CS 301 Operating Systems at IIT Gandhinagar, Semester I 2019â
 The site is a [Quarto](https://quarto.org) website in the same design as
 [ES 667 Deep Learning](https://nipunbatra.github.io/dl-2026/). GitHub Pages serves this branch as it is, so the
 site renders in place: every page's `.html` is committed next to its `.qmd`. After editing a page, run
-`quarto render` and commit the result (delete `robots.txt` and `sitemap.xml` first; Quarto regenerates them and otherwise stops with "Source and destination cannot be the same").
+`quarto render` and commit the result.
 
 | File | Contents |
 |---|---|

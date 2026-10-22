@@ -17,7 +17,6 @@ website:
   title: "CS 301 · Operating Systems 2019"
   favicon: favicon.svg
   description: "Operating Systems at IIT Gandhinagar, August–November 2019"
-  site-url: https://nipunbatra.github.io/os2019/
   search: false
 
 format:
