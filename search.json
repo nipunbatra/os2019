@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Project."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Lectures."
+  },
+  {
+    "objectID": "assessment.html",
+    "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\nGrading and every dated event of the August–November 2019 offering in one place. There is no mid-semester exam: four quizzes, two lab exams and the project carry most of the weight."
+  },
+  {
+    "objectID": "assessment.html#deadlines",
+    "href": "assessment.html#deadlines",
+    "title": "Assessment",
+    "section": "Dates",
+    "text": "Dates\n\n\n\n\n\nDate\nEvent\n\n\n\n\n06 Aug 19\nCourse begins\n\n\n13 Aug 19\nProject topics discussion\n\n\n15 Aug 19\nHoliday, no class\n\n\n23 Aug 19\nQuiz 1\n\n\n26 Aug 19\nProject timeline due\n\n\n27 Aug 19\nAssignment 1 due\n\n\n06 Sep 19\nProject phase I updates\n\n\n13 Sep 19\nQuiz 2\n\n\n16 Sep 19\nLab quiz (before concurrency)\n\n\n27 Sep 19\nMid-semester period and break\n\n\n15 Oct 19\nClasses resume\n\n\n18 Oct 19\nNo class\n\n\n05 Nov 19\nQuiz 3; project final demo\n\n\n15 Nov 19\nAssignment 2 due\n\n\n19 Nov 19\nQuiz 4\n\n\n20 Nov 19\nOS zine due\n\n\n25 Nov 19\nLab exam"
+  },
+  {
+    "objectID": "assessment.html#grading",
+    "href": "assessment.html#grading",
+    "title": "Assessment",
+    "section": "Grading",
+    "text": "Grading\nEverything is out of 100 marks.\n\nComponentMarksHow\n\nQuizzes40Four quizzes, 10 marks each.\nLab exams20Two lab exams, 10 marks each.\nProject20In groups of four. Project ideas.\nEnd semester10Written exam. There is no mid-semester exam.\nHomework8Two individual programming assignments.\nOS zine2A zine in the style of Julia Evans's zines.\nTotal100Scores are revised only if a question was left unchecked or the marks were totalled incorrectly."
+  },
+  {
+    "objectID": "assessment.html#quizzes",
+    "href": "assessment.html#quizzes",
+    "title": "Assessment",
+    "section": "Quizzes",
+    "text": "Quizzes\n\nAssessmentDateMaterial\n\nQuiz 123 AugQuiz 1\nQuiz 213 SepQuiz 2\nQuiz 305 Nov\nQuiz 419 Nov\nLab quiz16 SepBefore concurrency. See Labs.\nLab exam25 NovSee Labs."
+  },
+  {
+    "objectID": "assessment.html#project",
+    "href": "assessment.html#project",
+    "title": "Assessment",
+    "section": "Project and homework",
+    "text": "Project and homework\n\nItemDateNotes\n\nProject topics13 AugDiscussion in class. Project ideas.\nProject timeline26 AugSubmitted by each group.\nAssignment 127 AugDeadline.\nProject phase I06 SepUpdates.\nProject final demo05 Nov\nAssignment 215 NovDeadline.\nOS zine20 NovDeadline."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\n\nEvery class of the August–November 2019 offering, numbered as in the original schedule, with its slides. The textbook is Operating Systems: Three Easy Pieces.\nSlidesShort videoReading\nProcesses and CPU scheduling1–8Memory virtualisation9–20Concurrency21–32Persistence33–37\n\nProcesses and CPU schedulingLectures 1–8\n\nLecture 01Logistics and introduction to operating systems\nSlides\nLecture 02Processes\nSlides\nLecture 03Process API\nSlides\nLecture 04CPU scheduling I\nSlides\nLecture 05CPU scheduling I (continued)Slides as in lecture 4.\nSlides\nLecture 06CPU scheduling II\nSlides\nLecture 07MLFQ and limited direct execution\nSlides\nLecture 08Context switching\nSlides\n\n\nMemory virtualisationLectures 9–20\n\nLecture 09Assembly languageA beginner’s guide, by the teaching assistants.\nSlides\nLecture 10Memory management I\nSlides\nLecture 11Quiz 1\nQuiz 1\nLecture 12Address translation and segmentation\nSlides\nLecture 13Segmentation and paging\nSlides\nLecture 14Paging and TLBs\nSlides\nLecture 15Paging and advanced paging\nSlides\nLecture 16Free-space managementGuest lecture.\nSlides\nLecture 17Advanced paging and swapping\nSlides\nLecture 18Swapping I\nSlides\nLecture 19Swapping II\nSlides\nLecture 20Quiz 2\nQuiz 2\n·Linux memory management\nVideo: Linux memory management\n\n\nConcurrencyLectures 21–32\n\nLecture 21Concurrency and threads\nSlides\nLecture 22Concurrency and threads (continued)Slides as in lecture 21.\nSlides\nLecture 23Concurrency II: locks\nSlides\nLecture 24Concurrency III\nSlides\nLecture 25Concurrency III (continued)Slides as in lecture 24.\nSlides\nLecture 26Concurrency III: revisionAfter the mid-semester break. Slides as in lecture 24.\nSlides\nLecture 27Condition variables I\nSlides\nLecture 28Condition variables II\nSlides\nLecture 29Semaphores\nSlides\nLecture 30Semaphores and deadlocks I\nSlides\nLecture 31Topic not listedThe original schedule lists this class without a topic.\n\nLecture 32Semaphores and deadlocks II; concurrency bugs\nSemaphores and deadlocks IIConcurrency bugs\n\n\nPersistenceLectures 33–37\n\nLecture 33I/O devices and hard disks\nSlides\nLecture 34Hard disks and RAID\nSlides\nLecture 35RAID II; files and directories\nRAID II\nLecture 36File systems\n\nLecture 37File system implementation\n\n\n\n\nQuizzes 1 and 2 were held in class slots 11 and 20. Labs are listed on the Labs page; quizzes, deadlines and exams on Assessment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Operating Systems",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\n\n\n\nOperating Systems\nCS 301 · IIT Gandhinagar · Semester I, 2019–20\nCS 301 covers the three pieces of a modern operating system: virtualisation of the CPU and of memory, concurrency, and persistence. Lectures follow Operating Systems: Three Easy Pieces, weekly labs put the ideas into practice, and students wrote an OS zine and carried out a group project.\n\n  InstructorProf. Nipun Batra\n  Emailnipun.batra@iitgn.ac.in\n  LecturesTuesday, Thursday and Friday, 11:00 am–12:00 noon, AB7/102\n  LabsMonday, 10:00 am–12:00 noon, AB7/109\n  Teaching assistants3 TAs\n  TextbookOperating Systems: Three Easy Pieces\n\n\n\nCourse record\nThis offering ran from August to November 2019. Its slides, lab material and class code remain available.\n\n  Classes37\n  LabsWeekly labs, a lab quiz and a lab exam\n  QuizzesPapers for quizzes 1 and 2\n  CodeCode used in classes\n  Virtual machineUbuntu VirtualBox image\n\nAll dates\n\n\nLectures\n\n  1–8Processes and CPU scheduling8 lectures\n  9–20Memory virtualisation12 lectures\n  21–32Concurrency12 lectures\n  33–37Persistence5 lectures\n\n\n  All 37 classes\n\n\n\n\nQuestions\nIs there a mid-semester exam?No. The end-semester exam carries 10%; most of the grade comes from four quizzes, two lab exams, the project and the homework. See Grading.\nIs there a project?Yes: a project in groups of four, worth 20%. Teams submit a timeline, give phase I updates and present a final demo. See the project ideas.\nWhat is the OS zine?A zine on an operating-systems topic, in the style of Julia Evans's zines. It is worth 2% and was due on 20 November.\nCan I ask for my score to be revised?Only if a question was left unchecked or the marks were totalled incorrectly.\nWhat do I need for the labs and homework?A Linux environment. An Ubuntu VirtualBox image is provided, and the code used in classes is on GitHub.\n\nReferences\nMain textbook:\n\n  Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Operating Systems: Three Easy Pieces (free online)\n\nCourse resources:\n\n  Ubuntu VirtualBox VM image\n  Code used in classes\n  Course project ideas\n  Zines by Julia Evans, the model for the OS zine\n\n\n\n\nTeaching assistants\n\n  Rishiraj Adhikary\n  Varun Gohil\n  Shreyas Singh"
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThe lab slot was Monday, 10:00 am–12:00 noon, in AB7/109; dates are as in the original schedule. Chapter numbers refer to Operating Systems: Three Easy Pieces.\n\n\nDateLab\n\n12 AugProcess commands (top, ps)\n19 AugProcess API questions from the book\n04 SepChapter 14 questions\n11 SepChapters 15–17 questions\n16 SepLab quiz (before concurrency)\n25 SepThread introduction and the Chrome process model\n16 OctThread API and locks\n22 OctLocks, part 2\n30 OctConcurrent data structures\n06 NovChapter 39 questions\n25 NovLab exam"
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nWhat students said about the course.\n\nThe course policy was very nice. It lifted a lot of pressure by reducing the weightage of written exams while maintaining the rigor through assignments.\n\n\nI never thought I can learn so many things from one course. I personally am a fan of this course.\n\n\nThe overall content and the planning of the course was the best being offered in the campus. The assignments and the project topics were also very much useful."
+  },
+  {
+    "objectID": "feedback/index.html",
+    "href": "feedback/index.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "CS 301\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Labs\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Feedback."
+  }
+]

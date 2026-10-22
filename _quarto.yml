@@ -1,0 +1,33 @@
+# GitHub Pages serves the master branch as it is, so the site renders in place:
+# each page's .html sits next to its .qmd. Run `quarto render` and commit the result.
+project:
+  type: website
+  output-dir: .
+  render:
+    - index.qmd
+    - schedule.qmd
+    - labs.qmd
+    - assessment.qmd
+    - feedback.qmd
+    - lectures/index.qmd
+    - feedback/index.qmd
+    - projects/index.qmd
+
+website:
+  title: "CS 301 · Operating Systems 2019"
+  favicon: favicon.svg
+  description: "Operating Systems at IIT Gandhinagar, August–November 2019"
+  site-url: https://nipunbatra.github.io/os2019/
+  search: false
+
+format:
+  html:
+    theme: [cosmo, styles.scss, course.scss]
+    toc: false
+    page-layout: article
+    anchor-sections: false
+    body-classes: dl
+    link-external-newwindow: true
+    include-in-header: course-theme.html
+    include-before-body: rail.html
+    include-after-body: course-tools.html

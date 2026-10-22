@@ -1,0 +1,69 @@
+---
+title: "Assessment"
+body-classes: dl wide
+---
+
+```{=html}
+<p class="lede">Grading and every dated event of the August–November 2019 offering in one place. There is no mid-semester exam: four quizzes, two lab exams and the project carry most of the weight.</p>
+```
+
+::: {.two .rule-top}
+
+## Dates {#deadlines}
+
+{{< include _dates.qmd >}}
+
+## Grading {#grading}
+
+Everything is out of **100 marks**.
+
+```{=html}
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Component</th><th>Marks</th><th>How</th></tr></thead>
+<tbody>
+<tr><th>Quizzes</th><td class="big">40</td><td>Four quizzes, 10 marks each.</td></tr>
+<tr><th>Lab exams</th><td class="big">20</td><td>Two lab exams, 10 marks each.</td></tr>
+<tr><th>Project</th><td class="big">20</td><td>In groups of four. <a href="https://docs.google.com/spreadsheets/d/1eVVmBrCTXHa6XhfewG2S9_if11Ija0s_cNMBp5NMbww/edit?usp=sharing">Project ideas</a>.</td></tr>
+<tr><th>End semester</th><td class="big">10</td><td>Written exam. There is no mid-semester exam.</td></tr>
+<tr><th>Homework</th><td class="big">8</td><td>Two individual programming assignments.</td></tr>
+<tr><th>OS zine</th><td class="big">2</td><td>A zine in the style of <a href="https://jvns.ca/zines/">Julia Evans's zines</a>.</td></tr>
+<tr><th>Total</th><td class="big">100</td><td>Scores are revised only if a question was left unchecked or the marks were totalled incorrectly.</td></tr>
+</tbody></table>
+```
+
+:::
+
+::: {.two .rule-top}
+
+## Quizzes {#quizzes}
+
+```{=html}
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Assessment</th><th>Date</th><th>Material</th></tr></thead>
+<tbody>
+<tr><td>Quiz 1</td><td>23&nbsp;Aug</td><td><a href="https://docs.google.com/document/d/1LFQU-Gy4vzNXRDF6hlY8QAKArlLNFBO9wsq8UcWQKQI/edit?usp=sharing">Quiz 1</a></td></tr>
+<tr><td>Quiz 2</td><td>13&nbsp;Sep</td><td><a href="https://docs.google.com/document/d/1RWaJ51t04Meg5jnpFr1BHXCpK5ZCJpu8VlnigL6XoXY/edit">Quiz 2</a></td></tr>
+<tr><td>Quiz 3</td><td>05&nbsp;Nov</td><td></td></tr>
+<tr><td>Quiz 4</td><td>19&nbsp;Nov</td><td></td></tr>
+<tr><td>Lab quiz</td><td>16&nbsp;Sep</td><td>Before concurrency. See <a href="labs.html">Labs</a>.</td></tr>
+<tr><td>Lab exam</td><td>25&nbsp;Nov</td><td>See <a href="labs.html">Labs</a>.</td></tr>
+</tbody></table>
+```
+
+## Project and homework {#project}
+
+```{=html}
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Item</th><th>Date</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Project topics</td><td>13&nbsp;Aug</td><td>Discussion in class. <a href="https://docs.google.com/spreadsheets/d/1eVVmBrCTXHa6XhfewG2S9_if11Ija0s_cNMBp5NMbww/edit?usp=sharing">Project ideas</a>.</td></tr>
+<tr><td>Project timeline</td><td>26&nbsp;Aug</td><td>Submitted by each group.</td></tr>
+<tr><td>Assignment 1</td><td>27&nbsp;Aug</td><td>Deadline.</td></tr>
+<tr><td>Project phase I</td><td>06&nbsp;Sep</td><td>Updates.</td></tr>
+<tr><td>Project final demo</td><td>05&nbsp;Nov</td><td></td></tr>
+<tr><td>Assignment 2</td><td>15&nbsp;Nov</td><td>Deadline.</td></tr>
+<tr><td>OS zine</td><td>20&nbsp;Nov</td><td>Deadline.</td></tr>
+</tbody></table>
+```
+
+:::

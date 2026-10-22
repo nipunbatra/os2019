@@ -1,0 +1,26 @@
+<!-- Course dates, shared by Assessment. Write dates as "08 Oct 19" or "08 Oct 19, 6:30 pm" (IST);
+     the page greys out past rows from the date in the browser. -->
+
+::: {.dates}
+
+| Date | Event |
+|---|---|
+| 06 Aug 19 | Course begins |
+| 13 Aug 19 | Project topics discussion |
+| 15 Aug 19 | Holiday, no class |
+| 23 Aug 19 | [**Quiz 1**](https://docs.google.com/document/d/1LFQU-Gy4vzNXRDF6hlY8QAKArlLNFBO9wsq8UcWQKQI/edit?usp=sharing) |
+| 26 Aug 19 | Project timeline due |
+| 27 Aug 19 | Assignment 1 due |
+| 06 Sep 19 | Project phase I updates |
+| 13 Sep 19 | [**Quiz 2**](https://docs.google.com/document/d/1RWaJ51t04Meg5jnpFr1BHXCpK5ZCJpu8VlnigL6XoXY/edit) |
+| 16 Sep 19 | **Lab quiz** (before concurrency) |
+| 27 Sep 19 | Mid-semester period and break |
+| 15 Oct 19 | Classes resume |
+| 18 Oct 19 | No class |
+| 05 Nov 19 | **Quiz 3**; project final demo |
+| 15 Nov 19 | Assignment 2 due |
+| 19 Nov 19 | **Quiz 4** |
+| 20 Nov 19 | OS zine due |
+| 25 Nov 19 | **Lab exam** |
+
+:::

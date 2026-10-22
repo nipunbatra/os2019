@@ -1,0 +1,24 @@
+---
+title: "Labs"
+body-classes: dl wide
+---
+
+```{=html}
+<p class="lede">The lab slot was Monday, 10:00 am–12:00 noon, in AB7/109; dates are as in the original schedule. Chapter numbers refer to <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three Easy Pieces</a>.</p>
+
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Date</th><th>Lab</th></tr></thead>
+<tbody>
+<tr><td>12&nbsp;Aug</td><td><a href="https://nipunbatra.github.io/teaching/os-fall-18/labs/lab-1.pdf">Process commands (top, ps)</a></td></tr>
+<tr><td>19&nbsp;Aug</td><td>Process API questions from the book</td></tr>
+<tr><td>04&nbsp;Sep</td><td>Chapter 14 questions</td></tr>
+<tr><td>11&nbsp;Sep</td><td>Chapters 15–17 questions</td></tr>
+<tr><td>16&nbsp;Sep</td><td><b>Lab quiz</b> (before concurrency)</td></tr>
+<tr><td>25&nbsp;Sep</td><td><a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/os-fall-18/labs/19-Sep.md">Thread introduction and the Chrome process model</a></td></tr>
+<tr><td>16&nbsp;Oct</td><td><a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/os-fall-18/labs/26-Sep.md">Thread API and locks</a></td></tr>
+<tr><td>22&nbsp;Oct</td><td><a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/os-fall-18/labs/17-Oct.md">Locks, part 2</a></td></tr>
+<tr><td>30&nbsp;Oct</td><td><a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/os-fall-18/labs/24-Oct.md">Concurrent data structures</a></td></tr>
+<tr><td>06&nbsp;Nov</td><td>Chapter 39 questions</td></tr>
+<tr><td>25&nbsp;Nov</td><td><b>Lab exam</b></td></tr>
+</tbody></table>
+```
